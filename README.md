@@ -1,4 +1,4 @@
-# Webanwendung PlfaMoeHus-Frontend
+# Webanwendung PflaMoeHus-Frontend
 Hochschule RheinMain - Medieninformatik - Softwaretechnik-Projekt
 Im Rahmen des SWT-Moduls haben wir in einem 8-köpfigen Team einen Möbel- und Pflanzenshop entwickelt.
 Ziel dabei war es zum einen, die Entwicklung in einem realistischen Umfeld unter Verwendung von Scrum durchzuführen, zum anderen die Entwicklung eines Shops von Beginn an.
