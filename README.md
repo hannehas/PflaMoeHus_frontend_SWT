@@ -40,6 +40,9 @@ Folgende Funktionen haben wir bis Projektende umgesetzt:
 ### Startseite
 <img width="1425" alt="Bildschirmfoto 2022-04-11 um 16 53 58" src="https://user-images.githubusercontent.com/103412662/162767102-9fb1288b-4f13-4b4d-9d35-8b7ff7af0243.png">
 
+### Unterseite mit Filteranwendung
+<img width="1429" alt="Bildschirmfoto 2022-04-11 um 16 57 48" src="https://user-images.githubusercontent.com/103412662/162767649-5510dc8a-29cb-4911-a0e2-866e0b279805.png">
+
 ## Project setup
 ```
 npm install
